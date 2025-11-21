@@ -18,13 +18,10 @@
 - Cloud : AWS
 - CI/CD : Github,Bitbucket, Jenkins, Github Action
 
-## Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nana1243&commits_year=2025&theme=radical&hide=stars,contribs)
+## Git Activity
 
-## Most Used Language
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana1243&hide=Jupyter%20Notebook,scss,c&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nana1243&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💬 Velog ...
 
